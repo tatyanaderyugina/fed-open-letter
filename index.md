@@ -1,12 +1,16 @@
-# Open Letter in Support of Governor Lisa D. Cook and Federal Reserve Independence
-
-**Date:** September 2, 2025  
-**Affiliations for identification only**
-
----
-
-<embed src="FedIndependenceOpenLetterFinal" type="application/pdf" width="100%" height="900px" />
-
----
-
-📄 [Download PDF](FedIndependenceOpenLetterFinal.pdf)
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Economists’ Open Letter</title>
+  <style>body{max-width:980px;margin:2rem auto;padding:0 1rem;font:16px/1.5 system-ui}embed{width:100%;height:90vh;border:0}</style>
+</head>
+<body>
+  <h1>Open Letter in Support of Governor Lisa D. Cook & Fed Independence</h1>
+  <p><strong>Date:</strong> September 2, 2025 · <em>Affiliations for identification only</em></p>
+  <p>📄 <a href="FedIndependenceOpenLetterFinal.pdf">Download the PDF</a></p>
+  <embed src="FedIndependenceOpenLetterFinal.pdf" type="application/pdf" />
+  <p>If the PDF doesn’t load in your browser, <a href="letter.pdf">open it directly</a>.</p>
+</body>
+</html>
